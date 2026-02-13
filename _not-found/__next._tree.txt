@@ -1,0 +1,2 @@
+:HL["/luxor-virtual-arcade/_next/static/chunks/e5917d8b974a9222.css","style"]
+0:{"buildId":"Fn_IWIXifl3tH53yyXZ93","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
